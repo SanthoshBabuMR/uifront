@@ -1,0 +1,31 @@
+{
+  "name": "uifront",
+  "version": "0.0.1",
+  "description": "a personal blog on UI technologies",
+  "author": "Santhosh Babu <html5webster@gmail.com>",
+  "contributors": [
+    {
+      "name": "Webster aka Santhosh Babu",
+      "email": "html5webster@gmail.com"
+    }
+  ],
+  "bin": {},
+  "scripts": {},
+  "main": "node index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/html5webster/uifront.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [
+    "uifront",
+    "heroku"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "express": "~4.13.3"
+  },
+  "license": "MIT"
+}
