@@ -10,8 +10,10 @@
     }
   ],
   "bin": {},
-  "scripts": {},
-  "start": "node index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/html5webster/uifront.git"
